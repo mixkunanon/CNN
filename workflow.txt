@@ -1,0 +1,14 @@
+10 oct 
+    Rider Datesets 
+        - Grab
+        - Lineman
+        - Shoppee
+        - Robinhood
+        - Foodpanda
+        - Gojek
+        - Lazada
+    Pretrain Model:
+        - YoLo 
+        - Faster RCNN
+        - Resnet
+        Others
