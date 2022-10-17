@@ -2,7 +2,7 @@
     Rider Datesets 
         - Grab
         - Lineman
-        - Shoppee
+        - Shopee
         - Robinhood
         - Foodpanda
         - Gojek
