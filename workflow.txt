@@ -5,7 +5,6 @@
         - Shopee
         - Robinhood
         - Foodpanda
-        - Gojek
         - Lazada
     Pretrain Model:
         - YoLo 
