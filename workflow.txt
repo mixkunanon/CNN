@@ -6,8 +6,8 @@
         - Robinhood
         - Foodpanda
         - Lazada
+        - Airasia
     Pretrain Model:
         - YoLo 
-        - Faster RCNN
         - Resnet
         Others
