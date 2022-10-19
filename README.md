@@ -2,6 +2,9 @@
 
 ## Introduction
 
+## Data
+Dataset: https://drive.google.com/file/d/1rfRW-fLsrcBeZohVVYFM4LAU0q1auY2a/view?usp=sharing
+
 ## Member
 6310432002 ทรงคมกฤช ไชยกาล
 
