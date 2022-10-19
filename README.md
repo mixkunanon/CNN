@@ -12,7 +12,7 @@ Dataset: https://drive.google.com/file/d/1rfRW-fLsrcBeZohVVYFM4LAU0q1auY2a/view?
 
 ## Conclusion
 
-สรุปได้ว่า การทำ Objective Detection โดยใช้โมเดล RetinaNet และ YOLOv7 ในการตรวจจับพนักงานขนส่งพบว่า เมื่อทำการปรับ feature extractor โดยการ freeze backbone แล้ว ผลลัพธ์ที่ได้ของทั้ง 2 โมเดลให้ค่า Mean Average Precision (mAP) ที่ดีขึ้นกว่าตอน pretrained model โดยก่อนจะทำการ freeze backbone นั้นโมเดล RetinaNet และ YOLOv7 ให้ค่า mAP หลังการตรวจจับคือ 0.106 และ 0.152 ตามลำดับ หลังจากทำการ freeze backbone นั้นให้ค่า mAP คือ 0.116 และ 0.611 ซึ่งเพิ่มขึ้นอย่างเห็นได้ชัด
+จากการทดลองครั้งนี้สรุปได้ว่า โมเดล RetinaNet เมื่อ pretrained model นั้นจะให้ค่า mAP เท่ากับ 0.116 ซึ่งแตกต่างกันไม่มากจากหลังทำการ freeze backbone ที่ได้ค่า mAP 0.106 ส่วนโมเดล YOLOv7 หลังทำการ freeze backbone นั้นจะให้ค่า mAP เท่ากับ 0.611 ซึ่งสูงกว่าเมื่อ pretrained model ที่ให้ค่า mAP เท่ากับ 0.152 โดยผลที่ออกมาอาจเป็นเพราะจำนวน dataset ที่มีนั้นอาจจะไม่เพียงพอ หรือไม่ครอบคลุมในบาง class หรืออาจมีการปรับค่าและทดลองที่น้อยไป หากมีการปรับปรุงส่วนที่กล่าวคาดว่าสามารถเพิ่มประสิทธิภาพของการตรวจจับของโมเดลทั้งสองได้ดียิ่งขึ้น
 
 ### ปล.รายละเอียดเพิ่มเติมของการทดลองแสดงใน Report
 
