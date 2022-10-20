@@ -7,6 +7,9 @@
 ## Data
 Dataset: https://drive.google.com/file/d/1rfRW-fLsrcBeZohVVYFM4LAU0q1auY2a/view?usp=sharing
 
+## Environment Setting
+Google Colab with GPU runtimes setting
+
 ## Training
 โมเดลที่ใช้ในการทำ Objective Detection ในงานนี้ได้แก่ RetinaNet และ YOLOv7
 
