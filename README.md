@@ -2,7 +2,7 @@
 
 ## Introduction
 
-งานชิ้นนี้เป็นการศึกษาวิธีการ Objective Detection ในการตรวจจับภาพพนักงานขนส่งอาหารและสิ่งของต่าง ๆ หรือ ไรเดอร์ โดยใช้โมเดล RetinaNet และ YOLO
+งานชิ้นนี้เป็นการศึกษา Convolutional Neural Network ที่ใช้ในการทำ Objective Detection ในการตรวจจับภาพพนักงานขนส่งอาหารและสิ่งของต่าง ๆ หรือ ไรเดอร์ โดยใช้โมเดล RetinaNet และ YOLO
 
 ## Data
 Dataset: https://drive.google.com/file/d/1rfRW-fLsrcBeZohVVYFM4LAU0q1auY2a/view?usp=sharing
