@@ -15,7 +15,7 @@ Google Colab with GPU runtimes setting
 
 ## Conclusion
 
-| Model  |  mAP(Pretrained model) | Runtime(Freeze backbone) |
+| Model  |  mAP (Pretrained model) | mAP (Freeze backbone) |
 | ----  |  ---- | ---- |
 | RetinaNet     |     0.116 | 0.106 |
 | YOLOv7     |     0.152 | 0.611  |
